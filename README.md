@@ -1,3 +1,3 @@
 # GitPractice
-Learning Git and GitHub fundamentals
-Author: Sanskruti Kothari 
+<p> Learning Git and GitHub fundamentals <p>
+<b> Author: </b> Sanskruti Kothari 
